@@ -143,3 +143,41 @@ img{
 #section04 p{
     margin: 20px 0;
 }
+
+
+
+#section05 .container-wrapper{
+    align-items: initial;
+}
+#section05 h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+#section05 .box{
+    margin: 20px;
+    padding: 30px 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+#section05 .box h2{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+#section05 .box ul{
+    list-style: none;
+}
+#section05 .box ul li{
+    display: flex;
+    margin: 15px 0;
+    align-items: center;
+}
+#section05 .box ul li span{
+    width: 12px;
+    height: 12px;
+    background: tomato;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: tomato;
+}
