@@ -64,3 +64,43 @@ img{
 #section01 .my-button{
     margin: 20px 0 35px 0;
 }
+
+
+
+#section02{
+    margin: 35px auto;
+}
+#section02 h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+#section02 h1 span{
+    color: orange;
+}
+#section02 .box{
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px;
+}
+#section02 .box img{
+    max-width: 150px;
+}
+#section02 .box h3{
+    font-weight: 600;
+    margin: 15px 0;
+}
+#section02 .box p{
+    display: block;
+    margin-bottom: 25px;
+}
+#section02 #box-1{
+    background: #edf5f6;
+}
+#section02 #box-2{
+    background: #ffeeee;
+}
+#section02 #box-3{
+    background: #fff4d6;
+}
