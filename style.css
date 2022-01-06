@@ -106,7 +106,7 @@ img{
 }
 
 
-#section03{
+#section03, #section04{
     margin: 35px auto;
 }
 #section03 .left-content{
@@ -122,5 +122,24 @@ img{
     font-size: 30px;
 }
 #section03 p{
+    margin: 20px 0;
+}
+
+
+
+
+#section04 .left-content{
+    max-width: 55%;
+    width: 100%;
+}
+#section04 .right-content{
+    max-width: 45%;
+    padding-left: 100px;
+    width: 100%;
+}
+#section04 h2{
+    font-size: 30px;
+}
+#section04 p{
     margin: 20px 0;
 }
