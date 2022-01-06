@@ -104,3 +104,23 @@ img{
 #section02 #box-3{
     background: #fff4d6;
 }
+
+
+#section03{
+    margin: 35px auto;
+}
+#section03 .left-content{
+    max-width: 35%;
+    width: 100%;
+}
+#section03 .right-content{
+    max-width: 65%;
+    padding-left: 50px;
+    width: 100%;
+}
+#section03 h2{
+    font-size: 30px;
+}
+#section03 p{
+    margin: 20px 0;
+}
