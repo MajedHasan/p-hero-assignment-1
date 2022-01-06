@@ -3,3 +3,64 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.my-button{
+    text-decoration: none;
+    background: tomato;
+    color: white;
+    padding: 15px 50px;
+    border-radius: 7px;
+    margin: 10px 0;
+    display: inline-block;
+    font-weight: 600;
+}
+
+
+section{
+    max-width: 85%;
+    width: 100%;
+    margin: auto;
+}
+
+#section01{
+    margin: 40px auto;
+}
+.container-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    max-width: 100%;
+    width: 100%;
+}
+
+#section01 .left-content, #section01 .right-content{
+    max-width: 50%;
+    width: 100%;
+}
+#section01 h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+#section01 h1.second-heading{
+    color: tomato;
+    margin-bottom: 30px;
+}
+#section01 .heading{
+    padding-left: 15px;
+    border-left: 4px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+#section01 .right-content img{
+    max-width: 400px;
+}
+
+#section01 .my-button{
+    margin: 20px 0 35px 0;
+}
